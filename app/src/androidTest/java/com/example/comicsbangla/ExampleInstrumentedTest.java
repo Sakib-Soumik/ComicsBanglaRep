@@ -24,4 +24,5 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.example.comicsbangla", appContext.getPackageName());
     }
+    public int upoma=12;
 }
